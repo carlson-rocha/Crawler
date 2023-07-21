@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Consultar Benefícios";
+}
+
+<br />
+<h1>@ViewData["Title"]</h1>
+
+<form id="searchForm">
+    <div class="form-group">
+        <label for="numeroMatricula">Número da Matrícula:</label>
+        <input type="text" class="form-control" id="numeroMatricula" name="numeroMatricula" required>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Consultar</button>
+</form>
+
+<div id="resultContainer" class="mt-4">
+    <h4>Benefícios encontrados:</h4>
+    <ul id="resultList"></ul>
+</div>
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}
