@@ -11,7 +11,7 @@
             "Content-Type": "application/json"
         },
         body: JSON.stringify({
-            cpf: "cpf_desejado", // Substituir pelo CPF desejado
+            cpf: numeroMatricula, 
             usuario: "testekonsi",
             senha: "testekonsi"
         })

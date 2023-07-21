@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sLduWRk2iXswk+9cUL//wuuzIdpoRsm8Kf6fMHK4SXS23XRkHV5LXone70QhGd7ViZsCYnbDF7kHCtXsglNXAw==",
+  "dgSpecHash": "lCXMS2Or0No81//fGYE2UCb/v+Gm95vWFmRUkymQHD7ji3Quj30imb3AM+lS3eoXLv+OKBl4NNoOPxEDothVqQ==",
   "success": true,
   "projectFilePath": "C:\\TEMP\\Octa\\CS\\Crawler\\ExtratoClubeAPI\\ExtratoClubeAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rocha.carlson\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\rocha.carlson\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\rocha.carlson\\.nuget\\packages\\htmlagilitypack\\1.11.50\\htmlagilitypack.1.11.50.nupkg.sha512",
     "C:\\Users\\rocha.carlson\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\rocha.carlson\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
     "C:\\Users\\rocha.carlson\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",

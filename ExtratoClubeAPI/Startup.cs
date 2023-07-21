@@ -1,4 +1,4 @@
-﻿using ExtratoClubeAPI.Crawlers;
+﻿using ExtratoClubeAPI.Services;
 using Microsoft.AspNetCore.Builder;
 
 namespace ExtratoClubeAPI
